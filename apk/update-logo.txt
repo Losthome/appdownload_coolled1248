@@ -1,0 +1,10 @@
+@说明: 
+   1. app名称必须为app-release.apk，不可更改。
+   2. 不可随意修改apk目录以外的东西。
+   3. 每次上传都需要在该文件中新增apk修改说明，格式如下：
+	   2019年3月11日：
+	   1. xxxx
+	   2. xxxx
+
+2019年4月12日：
+1. Fix problems found on android 9
